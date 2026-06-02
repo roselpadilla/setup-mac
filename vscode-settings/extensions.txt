@@ -1,0 +1,7 @@
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+github.copilot-chat
+pkief.material-icon-theme
+redhat.vscode-yaml
+scala-lang.scala
+scalameta.metals

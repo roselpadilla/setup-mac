@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "alt+-",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "alt+=",
+    "command": "workbench.action.navigateForward"
+  }
+]
